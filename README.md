@@ -42,8 +42,6 @@
 - Server-side projects using **Node.js**, **TypeScript**, and **Express**
 - Task automation
 
-I'm also proudly serving as part of **Sekbid 3 TIK OSIS**, where I help support tech-related initiatives in my school community.
-
 ###
 
 <h2 align="left">🌐 Let's Connect!</h2>
